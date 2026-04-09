@@ -1,5 +1,9 @@
 # Cerebrovascular Signal Processing Pipeline in Parkinson’s Disease
 
+> ⚠️ **Note**  
+> This pipeline is under active development as part of an ongoing PhD project in Neurology/Neuroscience.  
+> Core steps (data import and baseline extraction) have been internally validated against LabChart DataPad outputs, while other components (e.g., peak detection and derived metrics) are still under evaluation and refinement.
+
 This repository provides a reproducible Python pipeline for the analysis of cerebrovascular and hemodynamic signals in Parkinson’s disease, focusing on temporal response dynamics and key physiological variables derived from transcranial Doppler and arterial blood pressure recordings.
 
 ## Features
